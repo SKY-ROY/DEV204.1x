@@ -1,0 +1,6 @@
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab2\bin\Debug\Mod2_Lab2.exe.config
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab2\bin\Debug\Mod2_Lab2.exe
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab2\bin\Debug\Mod2_Lab2.pdb
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab2\obj\Debug\Mod2_Lab2.csprojAssemblyReference.cache
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab2\obj\Debug\Mod2_Lab2.exe
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab2\obj\Debug\Mod2_Lab2.pdb

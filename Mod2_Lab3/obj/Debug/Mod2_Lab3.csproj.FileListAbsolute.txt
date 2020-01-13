@@ -1,0 +1,5 @@
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab3\bin\Debug\Mod2_Lab3.exe.config
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab3\bin\Debug\Mod2_Lab3.exe
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab3\bin\Debug\Mod2_Lab3.pdb
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab3\obj\Debug\Mod2_Lab3.exe
+C:\Users\akash\Desktop\C# Tutorial Files\Mod2_Lab3\obj\Debug\Mod2_Lab3.pdb
